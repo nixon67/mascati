@@ -4,10 +4,6 @@ Olá bem vindo ao livro de receitas do git
 
 :handshake:
 
-
-
-LLLLLL
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur molestie nisl at orci posuere, sit amet placerat sem luctus. Phasellus nec lacus eu nibh eleifend porta id quis nunc. Vivamus ut est sed nulla fermentum scelerisque et a odio. Sed ultricies eros vel ligula ultrices ullamcorper. Maecenas vel viverra nunc, nec tincidunt odio. Etiam eu justo eget elit maximus ultrices eu accumsan nulla. Maecenas id diam lectus. Nam ut nunc quam. Nunc vestibulum aliquet tincidunt.
 
 Nunc molestie velit ligula, non malesuada sapien suscipit eu. Mauris pharetra suscipit massa at varius. Pellentesque faucibus dui eget bibendum viverra. Phasellus neque augue, laoreet sollicitudin consectetur nec, egestas eu purus. Curabitur hendrerit fringilla auctor. Sed ante risus, mollis quis placerat ac, elementum eu nisl. Nunc ac volutpat tortor, sit amet tempus urna. Ut nec pulvinar mauris, ut mattis enim.
